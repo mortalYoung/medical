@@ -1338,9 +1338,7 @@ export default {
       pubChemHref: 'http://pubchem.ncbi.nlm.nih.gov/compound/23668813',
       fileName: 'Structure2D_CID_23668813',
       id: '23668813',
-      canGetCSVData: false,
-      errMessage:
-        'Please, provide only one molecule at a time or check your SMILES.',
+      canGetCSVData: true,
     },
     {
       link: 'http://119.3.41.228:8000/tcmid/ingredient/22321/',
@@ -1348,9 +1346,7 @@ export default {
       pubChemHref: 'http://pubchem.ncbi.nlm.nih.gov/compound/20405942',
       fileName: 'Structure2D_CID_20405942',
       id: '20405942',
-      canGetCSVData: false,
-      errMessage:
-        'Please, provide only one molecule at a time or check your SMILES.',
+      canGetCSVData: true,
     },
     {
       link: 'http://119.3.41.228:8000/tcmid/ingredient/22538/',
@@ -1824,9 +1820,7 @@ export default {
       pubChemHref: 'http://pubchem.ncbi.nlm.nih.gov/compound/6999975',
       fileName: 'Structure2D_CID_6999975',
       id: '6999975',
-      canGetCSVData: false,
-      errMessage:
-        'Please, provide only one molecule at a time or check your SMILES.',
+      canGetCSVData: true,
     },
     {
       link: 'http://119.3.41.228:8000/tcmid/ingredient/3858/',
